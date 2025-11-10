@@ -1,0 +1,1 @@
+The goal of this project is to automatically extract key information (like item name, price, tax, total, etc.) from invoice images and classify each extracted text segment into predefined categories using a fine-tuned Transformer model.
